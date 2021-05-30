@@ -1,5 +1,6 @@
 # PolyBird-Android
 
+### FR
 PolyBird est une application mobile de suivi de présence et/ou migration d'oiseaux par le biais de signalisations d’utilisateurs.
 
 Taches réalisable dans l'application :
@@ -10,9 +11,23 @@ Taches réalisable dans l'application :
   <li>Visualisation de toutes les signalisations d'oiseaux</li>
 </ul>
 
+### EN
+Polybird is a mobile application developed in team for monitoring the presence and/or 
+migration of birds through user reports.
+
+Tasks realized in the application:
+
+<ul>
+  <li>Identification of a bird species by an individual</li>
+  <li>Description of the spotted bird</li>
+  <li>Sharing information with other individuals</li>
+  <li>Visualization of all bird signals </li>
+</ul>
+
 Screenshots
 -----------
 <div style={display: flex}>
+  <img src="https://i.imgur.com/TsvMDdJ.png" height=500  />
   <img src="https://i.imgur.com/Y2ucX7o.jpg" height=500  />
   <img src="https://i.imgur.com/7m5t6zL.jpg" height=500 />
   <img src="https://i.imgur.com/PQUCAqZ.jpg" height=500 />
