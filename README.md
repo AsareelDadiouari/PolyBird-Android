@@ -15,7 +15,7 @@ Taches réalisable dans l'application :
 Polybird is a mobile application developed in team for monitoring the presence and/or 
 migration of birds through user reports.
 
-Tasks realized in the application:
+Tasks you can do with this application:
 
 <ul>
   <li>Identification of a bird species by an individual</li>
